@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 
-I'm a software engineer and content creator at [NexDev][youtube] (<!--SUBS-START-->0<!--SUBS-END--> subscribers).
+I'm a software engineer and content creator at [NexDev][youtube].
 
    <p align="left">
       <a href="https://www.youtube.com/@NEXDEV-TECH?sub_confirmation=1">
